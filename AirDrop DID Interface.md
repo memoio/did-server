@@ -78,6 +78,8 @@ GET
 
 ## Get Delete Msg
 
+Path: /did/deletesigmsg
+
 ### Method
 
 GET
@@ -100,6 +102,8 @@ GET
 ![create sig msg](image/delete-sig-msg.png)
 
 ## Delete DID
+
+PATH: /did/delete
 
 ### Method
 
